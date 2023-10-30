@@ -16,11 +16,11 @@ Notes:
 ![image](https://github.com/capco-use-cases/hackathon_app/assets/141928608/e00ccee9-1ff9-4509-a8bb-82d0845ed697)
 
 3. Contents of ‘Overview.pdf’ file attached:
-    a.	Libraries used for the project
-    b.	Preprocessing steps
-    c.	Training steps and discussions
-    d.	A few points on EDA
-    e.	Notes regarding approach
+    -	A. Libraries used for the project
+    -	B. Preprocessing steps
+    -	C. Training steps and discussions
+    -	D. A few points on EDA
+    -	E. Notes regarding approach
 
 <br><br>
 
