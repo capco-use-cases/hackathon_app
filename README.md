@@ -25,5 +25,4 @@ Notes:
 <br><br>
 
 Frontend app snapshot:
-![image](https://github.com/capco-use-cases/hackathon_app/assets/141928608/0907a10a-13c8-4844-a1ad-861737178bf5)
-
+![image](https://github.com/capco-use-cases/hackathon_app/assets/141928608/a9d2dd9e-999f-4e14-8f9c-c87d3de4f721)
