@@ -22,6 +22,7 @@ Notes:
     d.	A few points on EDA
     e.	Notes regarding approach
 
+<br><br>
 
 Frontend app snapshot:
 ![image](https://github.com/capco-use-cases/hackathon_app/assets/141928608/0907a10a-13c8-4844-a1ad-861737178bf5)
