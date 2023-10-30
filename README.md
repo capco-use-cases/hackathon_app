@@ -6,6 +6,8 @@ Instructions:
 5.	Please make sure to assign the parent path variable in the 'frontend.ipynb' file properly with the correct path of the ‘project’ directory path created.
 6.	Fill in the fields in the form and execute it to get output. And other required instructions are mentioned in the ipynb file itself.
 
+<br><br>
+
 Notes:
 1.	‘record.csv’ file is performing the role of a database in this use case, which contains some already tested instances.
 2.	After a query is performed in the app, if the customer instance is absent in the record.csv database, the prediction and recommendation is done and is updated in the database. Whereas, if any instance of the customer is already present, the last prediction already made is spilled and confirmation is asked if the user wants to add another instance in the record as shown below:
