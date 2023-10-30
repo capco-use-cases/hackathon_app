@@ -1,7 +1,7 @@
 Instructions:
 1. Running environment is Google Colab
 2.	Create a directory called ‘project’ anywhere inside ‘/content/drive/MyDrive/’ of google colab window.
-3.	Upload all the files inside ‘project’ directory from the repository to the 'project' directory created in the above step.
+3.	Upload all the files inside ‘project’ zipped directory from the repository to the 'project' directory created in the above step.
 4.	Open the ‘frontend.ipynb’ file and execute cell by cell.
 5.	Please make sure to assign the parent path variable in the 'frontend.ipynb' file properly with the correct path of the ‘project’ directory path created.
 6.	Double click on the cell containing the form in 'frontend.ipynb' file if required to maximize the form and hide the backend code for better aesthetics.
