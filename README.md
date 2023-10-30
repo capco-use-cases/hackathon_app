@@ -4,7 +4,8 @@ Instructions:
 3.	Upload all the files inside ‘project’ directory from the repository to the 'project' directory created in the above step.
 4.	Open the ‘frontend.ipynb’ file and execute cell by cell.
 5.	Please make sure to assign the parent path variable in the 'frontend.ipynb' file properly with the correct path of the ‘project’ directory path created.
-6.	Fill in the fields in the form and execute it to get output. And other required instructions are mentioned in the ipynb file itself.
+6.	Double click on the cell containing the form in 'frontend.ipynb' file if required to maximize the form and hide the backend code for better aesthetics.
+7.	Fill in the fields in the form and execute it to get output. And other required instructions are mentioned in the ipynb file itself.
 
 <br><br>
 
